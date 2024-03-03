@@ -1,0 +1,35 @@
+{
+  "type": "module",
+  "name": "ycl-tool",
+  "version": "1.0.2",
+  "description": "ycl工具箱",
+  "main": "index.js",
+  "keyword": "json转换 字符判断 env获取 时间转换 aes简单加解密 获取命令行参数",
+  "author": "y1834257499@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "dotenv": "^16.4.5",
+    "minimist": "^1.2.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/y1834257499/ycl-tool.git"
+  },
+  "keywords": [
+    "json转换",
+    "字符判断",
+    "env获取",
+    "时间转换",
+    "aes简单加解密",
+    "获取命令行参数"
+  ],
+  "bugs": {
+    "url": "https://github.com/y1834257499/ycl-tool/issues"
+  },
+  "homepage": "https://github.com/y1834257499/ycl-tool#readme"
+}
